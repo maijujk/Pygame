@@ -80,7 +80,7 @@ class Robottuseikkailu:
             
     def silmukka(self):
         # Pelin aloituskuva
-        robo = pygame.image.load("robo3.png")
+        robo = pygame.image.load("robo2.png")
         
         x = 0
         y = 0
